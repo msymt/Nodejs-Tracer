@@ -1,0 +1,14 @@
+
+{
+  "name": "Nodejs-tracer",
+  "version": "1.0.0",
+  "description": "Simple Node.jstracer that logs calls to core modules",
+  "main": "tracer.js",
+  "scripts": {
+    "start": "node -r .\tracer.js main.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["node", "tracer", "main"],
+  "author": "Sven Rath",
+  "license": "MIT",
+}

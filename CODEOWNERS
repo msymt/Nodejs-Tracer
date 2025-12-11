@@ -1,0 +1,7 @@
+# Global owner for everything
+*  @chkp-elism
+# Code owner
+*.js @chkp-svenr
+package.json @chkp-svenr
+# LICENSE owner
+LICENSE @chkp-liavt
